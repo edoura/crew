@@ -1,5 +1,5 @@
 {
-  "name": "crew",
+  "name": "crew-names",
   "version": "1.0.0",
   "description": "Obter um nome randomico em Crew",
   "main": "src/index.js",
