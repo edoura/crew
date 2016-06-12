@@ -1,0 +1,27 @@
+{
+  "name": "crew",
+  "version": "1.0.0",
+  "description": "Obter um nome randomico em Crew",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edoura/crew.git"
+  },
+  "keywords": [
+    "random",
+    "names",
+    "crew"
+  ],
+  "author": "Eduardo Moura <edoura@me.com> (http://about.me/eduardomoura)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edoura/crew/issues"
+  },
+  "homepage": "https://github.com/edoura/crew#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
